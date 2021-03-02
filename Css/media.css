@@ -1,0 +1,53 @@
+
+@media only screen and (min-width:1500px)and(max-width:9px){
+  body{
+     font-size: 10px;
+     display: flex;
+     flex-direction: column;
+     flex-wrap: wrap;
+    }
+    
+.bar-div{
+    display: block;
+    position: absolute;
+    z-index:10 ;
+    top:40px;
+    background-color:rgb(1, 1, 26);
+}
+.navitems{
+overflow: hidden;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.664);
+}
+.nav-content:hover{
+    display: block;
+}
+nav{
+    font-size: 10px;
+}
+#about-kytc{
+     width: 50حء;
+    display: block;
+    display:flex;
+    flex-direction: column;
+}
+#programs{
+    display: block;
+}
+#contact-sec{
+    display: block;
+}
+#test-sec{
+    display: block;
+}
+#picture-sec{
+    display: block;
+ 
+}
+
+.picture-div{
+    display: block;
+
+    width: 100%;
+}
+}
